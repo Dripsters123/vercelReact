@@ -3,8 +3,7 @@ function FunkIezime(){
         <div>
             <h2>Kas un kāpēc ir funkcionālā iezīme?</h2>
             <p>Funkcija ir ieviesta funkcionalitāte
-                mūsu sistēmā, lai atbalstītu spējas . Objekts sastāv vismaz no līdzekļa
-Funkcijas nosaukuma un Scenārija.
+                sistēmā, lai atbalstītu spējas.
         </p>
             <h2>Kādā formātā veidot lietotājstāstus? </h2>
             <ul>
@@ -24,8 +23,8 @@ strukturētā veidā:</p>
             <h2>Kā Rubika kubs ļauj skatīties uz funkcionālajām iezīmēm?</h2>
             <p>Rubika kubu var izmantot, lai skatītos uz funkcionālajām iezīmēm no dažādiem skatupunktiem. Piemēram, kubu grozot, katra tā puse piedāvā jaunu krāsu un šūnu izvietojumu. Tas pats kubs atklāj jaunas attēlu shēmas un izvietojumus, katru reizi to pagriežot.</p>
             <h2>Kas ir veiksmīgā iznākuma scenārijs</h2>
-            <p>Scenārijs kur
-Funkcijas galvenais aktieris bez jebkādiem šķēršļiem sasniedz objekta mērķi.</p>
+            <p>Scenārijs, kur
+Funkcijas galvenais "aktieris" bez jebkādiem šķēršļiem sasniedz objekta mērķi.</p>
         </div>
     );
 }
