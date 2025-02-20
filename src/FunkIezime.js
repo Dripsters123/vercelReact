@@ -15,7 +15,7 @@ function FunkIezime(){
             <p>Aprakstošai funkcijai būs vairāki scenāriji, kas ir rakstīti a
 strukturētā veidā:</p>
             <ul>
-                <li>Dots [nosacījums]</li>
+                <li>Kad [nosacījums]</li>
                 <li>Kad [tiek izsaukta darbība]</li>
                 <li>Tad [notiek paredzamais rezultāts]
         </li>
