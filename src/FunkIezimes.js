@@ -1,0 +1,1 @@
+import FunkIezime from './FunkIezime';
